@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Calculadora de Ahorro",
+    "version": "1.0",
+    "description": "Calcula el porcentaje de avance hacia tu meta de ahorro",
+    "action": {
+      "default_popup": "popup.html"
+    }
+}
+  
